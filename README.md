@@ -1,12 +1,7 @@
 # 55chan +Plus
 Plugin para tinyboard e vichan.
 
-Boa noite, anões.
-É com prazer que apresento a última versão do plugin para Tinyboard/vichan.
-
-Versão: 2.3.1
-
-'''Funcionalidades'''
+#Funcionalidades
 
 1) Anti-filtro.
 2) Filtro de palavras reverso.
@@ -20,13 +15,13 @@ Versão: 2.3.1
 10) Modo Dilma (Escreva mododilma)
 11) Melhorias de CSS e performance no chan. 
 
-'''Como Instalar?'''
+#Como Instalar?
 1) No topo da página do lado direito clique em opções.
 2) Depois clique em JS e usuário.
-3) Copie todo o código que está aqui: https://paste.ee/r/acCbz
+3) Copie todo o código que está no arquivo script.js
 4) Clique em atualizar script personalizado.
 5) Fim.
 
-
-'''Thread oficial''': >>>/comp/5667
+#Suporte
+Thread oficial: https://55chan.org/comp/res/5667.html
 Deixe sua sugestão, bug ou se for programador, colabore com o código.
